@@ -5,16 +5,12 @@ This project analyzes kidnapping incidents in Nigeria using a structured dataset
 
 The project involves data cleaning, transformation, statistical analysis, and visualization using tools Excel.
 
----
-
 ## 🎯 Objectives
 - Analyze trends in kidnapping incidents over time  
 - Identify regions with high kidnapping rates  
 - Examine relationships between variables (e.g., time, location, frequency)  
 - Clean and prepare raw data for analysis  
 - Present findings using charts and statistical methods  
-
----
 
 ## 📂 Dataset Description
 The dataset contains records of kidnapping incidents with the following key variables:
@@ -26,15 +22,11 @@ The dataset contains records of kidnapping incidents with the following key vari
 
 > ⚠️ Note: The dataset was cleaned to handle missing values, inconsistencies, and formatting issues before analysis.
 
----
-
 ## 🛠️ Tools & Technologies
 - **Microsoft Excel**
   - Power Query (Data Cleaning & Transformation)
 - **Data Visualization**
   - Charts and graphs (Excel)
-
----
 
 ## ⚙️ Data Cleaning Process
 The following steps were performed:
@@ -44,8 +36,6 @@ The following steps were performed:
 4. Extracted **month** and **year** from date fields  
 5. Standardized column formats  
 6. Ensured consistency across categorical variables  
-
----
 
 ## 📊 Data Analysis
 The analysis focused on:
@@ -59,12 +49,7 @@ The analysis focused on:
 - **Statistical Relationships**  
   Using SPSS to determine relationships between variables  
 
----
-
 ## 📈 Key Insights
 - Certain regions show consistently higher kidnapping rates  
 - Trends may indicate periods of increased activity  
 - Relationships between variables can help explain patterns in incidents  
-
-
-## 📁 Project Structure
